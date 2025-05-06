@@ -3,6 +3,8 @@ I'm a Front-End Developer passionate about building efficient and intuitive web 
 
 I thrive in multicultural and collaborative environments, committed to writing clean, scalable code and delivering user-centered solutions that align with business goals. I'm always open to new challenges and constant learning.
 
+Check out my portfolio: https://amandaalbuquerque.vercel.app/
+
 ## Technologies: 
 JavaScript · TypeScript · React.js · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Git/GitHub · Figma · UX/UI Design
 ## Skills: 
@@ -12,6 +14,8 @@ Fast learning · Problem solving · Adaptability · Effective communication
 Sono una sviluppatrice Front-End con una forte passione per la creazione di interfacce moderne e applicazioni web intuitive. Mi occupo dello sviluppo completo del front-end, garantendo un'esperienza utente fluida, accessibile e performante. Utilizzo tecnologie come JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap e strumenti di UX/UI come Figma.
 
 Amo lavorare in ambienti collaborativi e multiculturali. Mi impegno a scrivere codice pulito e sostenibile, sempre alla ricerca di nuove sfide e opportunità di crescita.
+
+Scopri il mio portfolio: https://amandaalbuquerque.vercel.app/
 
 ## Tecnologie: 
 JavaScript · TypeScript · React.js · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Git/GitHub · Figma · UX/UI Design
